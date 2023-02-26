@@ -1,0 +1,24 @@
+body{
+	background-image: url("Untitled-narnji 90.160y (1).png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pictur{
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin-left: 128px;
+	margin-top: 230px;
+}
+.pic-w{
+	margin-top: 176px;
+}
+.pic-a{
+	margin-top: 197px;
+}
+.pic-e2{
+	margin-top: 180px;
+}
+.pic-t{
+	margin-top: 197px;
+}
